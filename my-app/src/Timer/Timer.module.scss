@@ -1,0 +1,30 @@
+.timerContainer {
+    justify-content: center;
+    margin: auto;
+    border: 1px solid gray;
+    width: fit-content;
+    padding: 5px;
+    border-radius: 5px;
+    width: 350px;
+}
+
+.headLine {
+    text-align: center;
+    font-weight: bold;
+    border-bottom:  1px solid gray;
+}
+
+.timerContent {
+    padding: 5px;
+}
+
+.btn {
+    background-color: rgb(101, 232, 101);
+    width: 100%;
+    color: black;
+    border: none;
+    font-size: 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.headLine {
+    margin-top: 10px;
+    font-weight: bold;
+    display: flex;
+}
+
+.slider {
+    margin-left: 15px;
+    width: 100%;
+    max-width: 500px;
+    border: 1px solid grey;
+}
+
+.thumb {
+    font-size: 0.9em;
+    text-align: center;
+    background-color: rgb(101, 232, 101);
+    color: rgb(101, 232, 101);
+    cursor: pointer;
+}
+
+.track {
+    position: relative;
+  }

@@ -1,0 +1,17 @@
+.headLine {
+    font-weight: bold;
+    display: flex;
+}
+
+.leftTime {
+    width: 150px;
+    background: linear-gradient(to right,
+            #ffffff 0%,
+            #ffffff var(--percentageColorLeft),
+            #9b9999 var(--percentageColor),
+            #9b9999 100%);
+    border: 1px solid gray;
+    text-align: center;
+    margin-left: 10px;
+    border-radius: 4px;
+}
